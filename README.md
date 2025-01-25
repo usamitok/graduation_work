@@ -57,3 +57,6 @@ gem kaminariでページネーション機能。
 Google Calendar APIでカレンダー情報を取得し、日付を入力しなくても自動で設定される。
 Cloudinary APIで画像加工機能。
 LINE Messaging APIで通知機能。
+
+■ 画面遷移図
+Figma : https://www.figma.com/design/W4kOBaCCRPaEUqjlp1Md3e/%E6%8E%A8%E3%81%97%E6%B4%BB%E6%97%A5%E8%A8%98%E3%80%80%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=N47ZlUqqAsjWAyVd-1
