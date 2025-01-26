@@ -62,4 +62,4 @@ LINE Messaging APIで通知機能。
 Figma : https://www.figma.com/design/W4kOBaCCRPaEUqjlp1Md3e/%E6%8E%A8%E3%81%97%E6%B4%BB%E6%97%A5%E8%A8%98%E3%80%80%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=N47ZlUqqAsjWAyVd-1
 
 ■ ER図
-https://gyazo.com/61c9362269b694beb917dc5fa6f0f54f
+https://gyazo.com/76a734897d9217102e74a86d98650bcc
